@@ -4,7 +4,9 @@
 <br/>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=oyxiaoxi&theme=tokyonight&show_icons=true" />
 
-### Hi there 👋 I'm XiaoXi OuYang. This is my Github space!
+### Hi there 👋 
+
+> I'm XiaoXi OuYang. This is my Github space!
 
 🇨🇳 BeiJing, China・🤖 Full Stack Developer
 
