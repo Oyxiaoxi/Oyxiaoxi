@@ -10,7 +10,7 @@
 
 This is my [Blog](https://oyxiaoxi.me) WebSite
 
-🇨🇳 BeiJing, China
+🇺🇸 Los Angeles, California, USA
 
 🤖 Full Stack Developer
 
